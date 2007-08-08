@@ -1,0 +1,6 @@
+# Configuration file for ipalias SYSV run script
+# 
+IFALIAS_IFACE[0]=lan1
+IFALIAS_ADDRESS[0]=10.20.16.88
+IFALIAS_NETMASK[0]=255.255.248.0
+
